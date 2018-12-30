@@ -275,6 +275,10 @@
       "vendor" : "Crucial",
       "size" : 0.13
    },
+   "CR0024" : {
+      "vendor" : "Crucial",
+      "size" : 0.24
+   },
    "CR0025" : {
       "vendor" : "Crucial",
       "size" : 0.25
@@ -316,7 +320,7 @@
 		"size" : 0.25
 	},
 	"US0400": {
-		"vendor" : "Unspecified",
+		"vendor" : "unspecified",
 		"size" : 4
 	},
    "SG1000": {
@@ -348,8 +352,40 @@
 	   "size" : 0.4
    },
 	"US0500": {
-		"vendor" : "Unspecified",
+		"vendor" : "unspecified",
 		"size" : 5
+	},
+	"US0012": {
+		"vendor" : "unspecified",
+		"size" : 0.12
+	},
+	"US0075": {
+		"vendor" : "unspecified",
+		"size" : 0.75
+	},
+	"US0001": {
+		"vendor" : "unspecified",
+		"size" : 0.01
+	},
+	"US0600": {
+		"vendor" : "unspecified",
+		"size" : 6
+	},
+	"SG1200": {
+		"vendor" : "Samsung",
+		"size" : 12
+	},
+	"SG1400": {
+		"vendor" : "Samsung",
+		"size" : 14
+	},
+	"TS0800": {
+		"vendor" : "Toshiba",
+		"size" : 8
+	},
+	"US0800": {
+		"vendor" : "unspecified",
+		"size" : 8
 	}
    
 }

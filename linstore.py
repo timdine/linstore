@@ -41,6 +41,7 @@ storage_sys_plot_path       = plot_dir + timestamp + '--storage_sys.svg'
 timeline_sys_plot_path      = plot_dir + timestamp + '--timeline_sys.svg'
 timeline_caps_plot_path     = plot_dir + timestamp + '--timeline_caps.svg'
 timeline_drvc_plot_path     = plot_dir + timestamp + '--timeline_drvc.svg'
+test_plot_path		        = plot_dir + timestamp + '--test.svg'
 
 drive_existence_failure = 5
 os_existence_failure = 6
@@ -908,3 +909,35 @@ plt.setp(ax25.get_xticklabels()[::], visible=False)
 plt.setp(ax25.get_xticklabels()[::5], visible=True)
 ax25.set_ylim(bottom=0)
 fig12.savefig(timeline_sys_plot_path)
+
+plot_data_timeline_dates = []
+plot_data_timeline_caps  = []
+plot_data_timeline_drvc  = []
+plot_data_timeline_timestamps = []
+plot_data_timeline_sys = []
+for timestamp in timeline_db.keys():
+    plot_data_timeline_dates.append(dt.datetime.fromtimestamp(timestamp)) #.strftime("%Y-%b-%d")
+    plot_data_timeline_timestamps.append(timestamp)
+    plot_data_timeline_caps.append(timeline_db[timestamp]['capacity'])
+    plot_data_timeline_drvc.append(timeline_db[timestamp]['drive_count'])
+    plot_data_timeline_sys.append(timeline_db[timestamp]['system_count'])
+theNewDF = pd.DataFrame()
+#theNewDF['Timestamp'] = plot_data_timeline_timestamps
+theNewDF['Date'] = plot_data_timeline_dates
+theNewDF['Capacity (TB)'] = plot_data_timeline_caps
+#theNewDF['Drive Count'] = plot_data_timeline_drvc
+#theNewDF['System Count'] = plot_data_timeline_sys
+#print theNewDF.head()
+fig14, ax27 = plt.subplots(1)
+sns.scatterplot('Date', 'Capacity (TB)', data=theNewDF, ax=ax27) #, fit_reg=True
+
+#theNewDF.plot()
+#plt.show()
+
+fig14.subplots_adjust(bottom=0.2,left=0.1,right=0.9,top=0.95)
+plt.xlim(min(plot_data_timeline_dates), max(plot_data_timeline_dates))
+plt.setp(ax27.xaxis.get_majorticklabels(), rotation=90)
+plt.setp(ax27.get_xticklabels()[::], visible=True)
+plt.setp(ax27.get_xticklabels()[::5], visible=True)
+ax27.set_ylim(bottom=0)
+fig14.savefig(test_plot_path)

@@ -134,5 +134,9 @@
         "WS 2016" : {
                 "os" : "Windows Server 2016",
                 "family" : "Windows"
+        },
+        "UNKNOWN" : {
+                "os" : "Unknown",
+                "family" : "Unknown"
         }
 }
