@@ -135,6 +135,10 @@
       "vendor" : "Kingston",
       "size" : 0.24
    },
+   "KT0048" : {
+      "vendor" : "Kingston",
+      "size" : 0.48
+   },
    "SS0075" : {
       "vendor" : "Samsung",
       "size" : 0.75
@@ -299,6 +303,10 @@
       "vendor" : "Adata",
       "size" : 0.06
    },
+   "SD0012" : {
+      "vendor" : "Sandisk",
+      "size" : 0.12
+  },
    "SD0025" : {
        "vendor" : "Sandisk",
        "size" : 0.25

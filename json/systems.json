@@ -890,16 +890,18 @@
   "username": "Zerreth"
  },
  "system_054": {
-  "capacity": 13.0,
+  "capacity": 41,
   "case": "Synology DS412+",
   "ditch": 0,
   "drives": {
    "DR0025": 1,
-   "SG0400": 4,
+   "SG0400": 6,
    "WD0400": 2,
-   "TS0300": 1
+   "WD0300": 2,
+   "TS0300": 1,
+   "SG0200": 1
   },
-  "updates": [10110363],
+  "updates": [10110363,12258628],
   "notes": null,
   "os": "Synology",
   "post": 2304876,
@@ -2841,7 +2843,7 @@
   "notes": null,
   "os": "ESXi",
   "post": 11713535,
-  "storage_sys": {"unknown": 1},
+  "storage_sys": {"ZFS": 1},
   "timestamp": 1535889600,
   "username": "Psittac"
  },
@@ -2980,5 +2982,37 @@
   "storage_sys": {"ZFS": 1},
   "timestamp": 1535371200,
   "username": "mfyll"
+ },
+ "system_184": {
+  "capacity": 41.25,
+  "case": "Supermicro SuperChassis CSE-836",
+  "ditch": 0,
+  "drives": {
+	  "KT0048" : 2,
+    "SD0012" : 2,
+    "WD0400" : 10
+  },
+  "updates": null,
+  "notes": null,
+  "os": "ESXi",
+  "post": 12160786,
+  "storage_sys": {"ZFS": 1},
+  "timestamp": 1546776000,
+  "username": "ololax"
+ },
+ "system_185": {
+  "capacity": 24,
+  "case": "Dell R710",
+  "ditch": 0,
+  "drives": {
+    "WD0300" : 8
+  },
+  "updates": null,
+  "notes": null,
+  "os": "WS 2012R2",
+  "post": 12201373,
+  "storage_sys": {"HwRD": 1},
+  "timestamp": 1547726400,
+  "username": "8uhbbhu8"
  }
 }
