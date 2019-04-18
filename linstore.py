@@ -814,7 +814,7 @@ plt.setp(ax16.yaxis.get_majorticklabels(), rotation=0)
 plt.setp(ax16.xaxis.get_majorticklabels(), rotation=90)
 plt.setp(ax17.xaxis.get_majorticklabels(), rotation=90)
 cax = plt.gcf().axes[-1]
-cax.tick_params(labelsize=5)
+cax.tick_params(labelsize=12)
 plt.savefig(os_heatmap_caps_path)
 
 fig8 = plt.figure()
