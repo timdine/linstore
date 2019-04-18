@@ -814,7 +814,7 @@ plt.setp(ax16.yaxis.get_majorticklabels(), rotation=0)
 plt.setp(ax16.xaxis.get_majorticklabels(), rotation=90)
 plt.setp(ax17.xaxis.get_majorticklabels(), rotation=90)
 cax = plt.gcf().axes[-1]
-cax.tick_params(labelsize=12)
+cax.tick_params(labelsize=5)
 plt.savefig(os_heatmap_caps_path)
 
 fig8 = plt.figure()
@@ -910,6 +910,10 @@ plt.setp(ax25.get_xticklabels()[::5], visible=True)
 ax25.set_ylim(bottom=0)
 fig12.savefig(timeline_sys_plot_path)
 
+
+
+
+
 plot_data_timeline_dates = []
 plot_data_timeline_caps  = []
 plot_data_timeline_drvc  = []
@@ -924,12 +928,14 @@ for timestamp in timeline_db.keys():
 theNewDF = pd.DataFrame()
 #theNewDF['Timestamp'] = plot_data_timeline_timestamps
 theNewDF['Date'] = plot_data_timeline_dates
-theNewDF['Capacity (TB)'] = plot_data_timeline_caps
-#theNewDF['Drive Count'] = plot_data_timeline_drvc
+#theNewDF['Capacity (TB)'] = plot_data_timeline_caps
+theNewDF['Drive Count'] = plot_data_timeline_drvc
 #theNewDF['System Count'] = plot_data_timeline_sys
 #print theNewDF.head()
 fig14, ax27 = plt.subplots(1)
-sns.scatterplot('Date', 'Capacity (TB)', data=theNewDF, ax=ax27) #, fit_reg=True
+#sns.scatterplot('Date', 'Capacity (TB)', data=theNewDF, ax=ax27) #, fit_reg=True
+sns.scatterplot('Date', 'Drive Count', data=theNewDF, ax=ax27) #, fit_reg=True
+#sns.scatterplot('Date', 'System Count', data=theNewDF, ax=ax27) #, fit_reg=True
 
 #theNewDF.plot()
 #plt.show()

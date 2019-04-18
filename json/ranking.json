@@ -1027,6 +1027,36 @@
   "username": "aznmonk"
  }, 
  "42": {
+  "cap_bar": 52.965326450799466, 
+  "capacity": 43.25, 
+  "case": "Synology DS412+", 
+  "ditch": 0, 
+  "drive_count": 13, 
+  "drives": {
+   "DR0025": 1, 
+   "SG0200": 1, 
+   "SG0400": 6, 
+   "TS0300": 1, 
+   "WD0300": 2, 
+   "WD0400": 2
+  }, 
+  "drvc_bar": 36.06410401472424, 
+  "notes": null, 
+  "os": "Synology", 
+  "post": 2304876, 
+  "ranking_points": 111.26547895645733, 
+  "rp_bar": 66.25126463556855, 
+  "storage_sys": {
+   "SHR": 1
+  }, 
+  "timestamp": 1404076473, 
+  "updates": [
+   10110363, 
+   12258628
+  ], 
+  "username": "Dr_Frankenstein"
+ }, 
+ "43": {
   "cap_bar": 52.55296970847403, 
   "capacity": 42.0, 
   "case": "Rosewill Blackhawk Ultra", 
@@ -1051,7 +1081,7 @@
   ], 
   "username": "zyk"
  }, 
- "43": {
+ "44": {
   "cap_bar": 53.20705774250981, 
   "capacity": 44.0, 
   "case": "Fractal Design Node 804", 
@@ -1074,7 +1104,31 @@
   "updates": null, 
   "username": "Nemockulous"
  }, 
- "44": {
+ "45": {
+  "cap_bar": 52.28256989145832, 
+  "capacity": 41.2, 
+  "case": "Supermicro SuperChassis CSE-836", 
+  "ditch": 0, 
+  "drive_count": 14, 
+  "drives": {
+   "KT0048": 2, 
+   "SD0012": 2, 
+   "WD0400": 10
+  }, 
+  "drvc_bar": 37.10608857020769, 
+  "notes": null, 
+  "os": "ESXi", 
+  "post": 12160786, 
+  "ranking_points": 109.02240165222585, 
+  "rp_bar": 65.96491608136282, 
+  "storage_sys": {
+   "ZFS": 1
+  }, 
+  "timestamp": 1546776000, 
+  "updates": null, 
+  "username": "ololax"
+ }, 
+ "46": {
   "cap_bar": 52.55296970847403, 
   "capacity": 42.0, 
   "case": "Synology DS1215+", 
@@ -1099,7 +1153,7 @@
   "updates": null, 
   "username": "redlukas"
  }, 
- "45": {
+ "47": {
   "cap_bar": 51.14576053724714, 
   "capacity": 38.0, 
   "case": "Norco RP4020", 
@@ -1124,7 +1178,7 @@
   "updates": null, 
   "username": "Jonathan Yonke"
  }, 
- "46": {
+ "48": {
   "cap_bar": 51.14576053724714, 
   "capacity": 38.0, 
   "case": "Logic Case SC-4324", 
@@ -1152,7 +1206,7 @@
   ], 
   "username": "Danny91"
  }, 
- "47": {
+ "49": {
   "cap_bar": 54.43046877832223, 
   "capacity": 48.0, 
   "case": "Fractal Design Node 804", 
@@ -1174,7 +1228,7 @@
   "updates": null, 
   "username": "kerradeph"
  }, 
- "48": {
+ "50": {
   "cap_bar": 51.51098515299057, 
   "capacity": 39.0, 
   "case": "U-NAS NSC-810A", 
@@ -1196,7 +1250,7 @@
   "updates": null, 
   "username": "H3llscr3am"
  }, 
- "49": {
+ "51": {
   "cap_bar": 51.95107263950922, 
   "capacity": 40.24, 
   "case": "Corsair 750D", 
@@ -1219,7 +1273,7 @@
   "updates": null, 
   "username": "LIGISTX"
  }, 
- "50": {
+ "52": {
   "cap_bar": 52.21414952704655, 
   "capacity": 41.0, 
   "case": "Dell R510", 
@@ -1244,7 +1298,7 @@
   "updates": null, 
   "username": "MariusJS"
  }, 
- "51": {
+ "53": {
   "cap_bar": 51.86696257527929, 
   "capacity": 40.0, 
   "case": "Corsair Carbide 400R with IcyDock MB155SP-B", 
@@ -1270,7 +1324,7 @@
   ], 
   "username": "Jarsky"
  }, 
- "52": {
+ "54": {
   "cap_bar": 48.729484550069856, 
   "capacity": 32.0, 
   "case": "Norcotek RPC4220", 
@@ -1295,7 +1349,7 @@
   ], 
   "username": "looney"
  }, 
- "53": {
+ "55": {
   "cap_bar": 49.37358298713759, 
   "capacity": 33.5, 
   "case": "Fractal Design R5", 
@@ -1321,7 +1375,7 @@
   ], 
   "username": "Captain Chaos"
  }, 
- "54": {
+ "56": {
   "cap_bar": 51.14576053724714, 
   "capacity": 38.0, 
   "case": "Fractal Design Array R2", 
@@ -1344,7 +1398,7 @@
   "updates": null, 
   "username": "Hellboy"
  }, 
- "55": {
+ "57": {
   "cap_bar": 47.480485960078155, 
   "capacity": 29.28, 
   "case": "HP Z800 Workstation", 
@@ -1370,7 +1424,7 @@
   ], 
   "username": "b348xyz"
  }, 
- "56": {
+ "58": {
   "cap_bar": 49.37358298713759, 
   "capacity": 33.5, 
   "case": "Rosewill RSV-L4411", 
@@ -1394,7 +1448,7 @@
   "updates": null, 
   "username": "Mikensan"
  }, 
- "57": {
+ "59": {
   "cap_bar": 55.004440600488714, 
   "capacity": 50.0, 
   "case": "Fractal Node 804", 
@@ -1419,7 +1473,7 @@
   ], 
   "username": "AnonymousGuy"
  }, 
- "58": {
+ "60": {
   "cap_bar": 50.38555609656061, 
   "capacity": 36.0, 
   "case": "HP Proliant", 
@@ -1441,7 +1495,7 @@
   "updates": null, 
   "username": "Kiades"
  }, 
- "59": {
+ "61": {
   "cap_bar": 45.570020035405925, 
   "capacity": 25.56, 
   "case": "unknown", 
@@ -1473,7 +1527,7 @@
   ], 
   "username": "username6465"
  }, 
- "60": {
+ "62": {
   "cap_bar": 46.85198548022166, 
   "capacity": 28.0, 
   "case": "Norcotek RPC4224", 
@@ -1497,7 +1551,7 @@
   "updates": null, 
   "username": "MrSmoke"
  }, 
- "61": {
+ "63": {
   "cap_bar": 47.82204989351768, 
   "capacity": 30.0, 
   "case": "Fractal Design R5", 
@@ -1521,7 +1575,7 @@
   ], 
   "username": "Cheatdeath"
  }, 
- "62": {
+ "64": {
   "cap_bar": 47.82204989351768, 
   "capacity": 30.0, 
   "case": "Norcotek 4224", 
@@ -1543,7 +1597,7 @@
   "updates": null, 
   "username": "Morgo_mpx"
  }, 
- "63": {
+ "65": {
   "cap_bar": 46.85198548022166, 
   "capacity": 28.0, 
   "case": "Fractal Design R4", 
@@ -1567,7 +1621,7 @@
   "updates": null, 
   "username": "Benjamin"
  }, 
- "64": {
+ "66": {
   "cap_bar": 48.729484550069856, 
   "capacity": 32.0, 
   "case": "Corsair 750D", 
@@ -1589,7 +1643,7 @@
   "updates": null, 
   "username": "kev507"
  }, 
- "65": {
+ "67": {
   "cap_bar": 48.729484550069856, 
   "capacity": 32.0, 
   "case": "Rosewill RSV-L4500", 
@@ -1611,7 +1665,7 @@
   "updates": null, 
   "username": "Prisoner627"
  }, 
- "66": {
+ "68": {
   "cap_bar": 48.729484550069856, 
   "capacity": 32.0, 
   "case": "Fractal Define R5", 
@@ -1633,7 +1687,7 @@
   "updates": null, 
   "username": "alex75871"
  }, 
- "67": {
+ "69": {
   "cap_bar": 48.729484550069856, 
   "capacity": 32.0, 
   "case": "Norco RPC4308", 
@@ -1655,7 +1709,7 @@
   "updates": null, 
   "username": "b3nno"
  }, 
- "68": {
+ "70": {
   "cap_bar": 44.684571868308254, 
   "capacity": 24.0, 
   "case": "Fractal Define R5", 
@@ -1678,7 +1732,7 @@
   "updates": null, 
   "username": "unijab"
  }, 
- "69": {
+ "71": {
   "cap_bar": 51.86696257527929, 
   "capacity": 40.0, 
   "case": "Unknown Rack Mount", 
@@ -1700,7 +1754,7 @@
   "updates": null, 
   "username": "dkuhn"
  }, 
- "70": {
+ "72": {
   "cap_bar": 47.58573580747677, 
   "capacity": 29.5, 
   "case": "Synology DS1813+", 
@@ -1723,7 +1777,7 @@
   "updates": null, 
   "username": "pyromaniac"
  }, 
- "71": {
+ "73": {
   "cap_bar": 45.81000092473821, 
   "capacity": 26.0, 
   "case": "Synology DS1511+, DX510", 
@@ -1747,7 +1801,7 @@
   "updates": null, 
   "username": "d33g33"
  }, 
- "72": {
+ "74": {
   "cap_bar": 44.684571868308254, 
   "capacity": 24.0, 
   "case": "Sharkoon T9 Value", 
@@ -1770,7 +1824,7 @@
   "updates": null, 
   "username": "TJStamp"
  }, 
- "73": {
+ "75": {
   "cap_bar": 46.85198548022166, 
   "capacity": 28.0, 
   "case": "Corsair 500R", 
@@ -1795,7 +1849,7 @@
   ], 
   "username": "Gronnie"
  }, 
- "74": {
+ "76": {
   "cap_bar": 46.85198548022166, 
   "capacity": 28.0, 
   "case": "Synology DS1813+", 
@@ -1818,7 +1872,7 @@
   "updates": null, 
   "username": "Robbo600"
  }, 
- "75": {
+ "77": {
   "cap_bar": 46.85198548022166, 
   "capacity": 28.0, 
   "case": "8 bay Synology case", 
@@ -1842,34 +1896,7 @@
   "updates": null, 
   "username": "LAwLz"
  }, 
- "76": {
-  "cap_bar": 46.470232877220504, 
-  "capacity": 27.25, 
-  "case": "Synology DS412+", 
-  "ditch": 0, 
-  "drive_count": 8, 
-  "drives": {
-   "DR0025": 1, 
-   "SG0400": 4, 
-   "TS0300": 1, 
-   "WD0400": 2
-  }, 
-  "drvc_bar": 29.237690730041916, 
-  "notes": null, 
-  "os": "Synology", 
-  "post": 2304876, 
-  "ranking_points": 57.003295680736215, 
-  "rp_bar": 56.84755769722943, 
-  "storage_sys": {
-   "SHR": 1
-  }, 
-  "timestamp": 1404076473, 
-  "updates": [
-   10110363
-  ], 
-  "username": "Dr_Frankenstein"
- }, 
- "77": {
+ "78": {
   "cap_bar": 46.85198548022166, 
   "capacity": 28.0, 
   "case": "Rosewill Server rackmount 4U", 
@@ -1891,7 +1918,7 @@
   "updates": null, 
   "username": "Poohy14"
  }, 
- "78": {
+ "79": {
   "cap_bar": 45.81000092473821, 
   "capacity": 26.0, 
   "case": "MS-Tech CA-0210 rev. b", 
@@ -1914,7 +1941,7 @@
   "updates": null, 
   "username": "FattyDave"
  }, 
- "79": {
+ "80": {
   "cap_bar": 41.79390046031516, 
   "capacity": 19.54, 
   "case": "Norcotek RPC2304 ", 
@@ -1940,7 +1967,7 @@
   "updates": null, 
   "username": "bwainer"
  }, 
- "80": {
+ "81": {
   "cap_bar": 44.97448641037347, 
   "capacity": 24.5, 
   "case": "Fractal Design Node 804", 
@@ -1965,7 +1992,7 @@
   "updates": null, 
   "username": "overflowsc"
  }, 
- "81": {
+ "82": {
   "cap_bar": 42.46825261703257, 
   "capacity": 20.5, 
   "case": "CM Storm Trooper", 
@@ -1991,7 +2018,7 @@
   "updates": null, 
   "username": "atv127"
  }, 
- "82": {
+ "83": {
   "cap_bar": 42.807072798460055, 
   "capacity": 21.0, 
   "case": "Cooler Master HAF 912", 
@@ -2015,7 +2042,7 @@
   "updates": null, 
   "username": "electrostatic"
  }, 
- "83": {
+ "84": {
   "cap_bar": 44.684571868308254, 
   "capacity": 24.0, 
   "case": "Rosewill RSV-R4000", 
@@ -2039,7 +2066,7 @@
   "updates": null, 
   "username": "SanMadJack"
  }, 
- "84": {
+ "85": {
   "cap_bar": 44.684571868308254, 
   "capacity": 24.0, 
   "case": "Fractal Design R5", 
@@ -2064,7 +2091,7 @@
   ], 
   "username": "Stakacs"
  }, 
- "85": {
+ "86": {
   "cap_bar": 44.684571868308254, 
   "capacity": 24.0, 
   "case": "Fractal Design Node 804", 
@@ -2086,7 +2113,7 @@
   "updates": null, 
   "username": "RabidPancakes"
  }, 
- "86": {
+ "87": {
   "cap_bar": 44.684571868308254, 
   "capacity": 24.0, 
   "case": "Silverstone DS380B", 
@@ -2109,7 +2136,29 @@
   "updates": null, 
   "username": "kkpatel87"
  }, 
- "87": {
+ "88": {
+  "cap_bar": 44.684571868308254, 
+  "capacity": 24.0, 
+  "case": "Dell R710", 
+  "ditch": 0, 
+  "drive_count": 8, 
+  "drives": {
+   "WD0300": 8
+  }, 
+  "drvc_bar": 29.237690730041916, 
+  "notes": null, 
+  "os": "WS 2012R2", 
+  "post": 12201373, 
+  "ranking_points": 50.20473748028144, 
+  "rp_bar": 55.06189668831717, 
+  "storage_sys": {
+   "HwRD": 1
+  }, 
+  "timestamp": 1547726400, 
+  "updates": null, 
+  "username": "8uhbbhu8"
+ }, 
+ "89": {
   "cap_bar": 47.82204989351768, 
   "capacity": 30.0, 
   "case": "Fractal Design Node 804", 
@@ -2131,7 +2180,7 @@
   "updates": null, 
   "username": "paps511"
  }, 
- "88": {
+ "90": {
   "cap_bar": 42.807072798460055, 
   "capacity": 21.0, 
   "case": "Nanoxia Deep Silence 1 Rev. B", 
@@ -2158,7 +2207,7 @@
   "updates": null, 
   "username": "Thorn57"
  }, 
- "89": {
+ "91": {
   "cap_bar": 44.0861684897928, 
   "capacity": 23.0, 
   "case": "Antec 1200", 
@@ -2183,7 +2232,7 @@
   "updates": null, 
   "username": "Galxy"
  }, 
- "90": {
+ "92": {
   "cap_bar": 44.0861684897928, 
   "capacity": 23.0, 
   "case": "Silverstone GD07 HTPC", 
@@ -2206,7 +2255,7 @@
   "updates": null, 
   "username": "algoat"
  }, 
- "91": {
+ "93": {
   "cap_bar": 43.46116083249584, 
   "capacity": 22.0, 
   "case": "Silverstone GD08", 
@@ -2230,7 +2279,7 @@
   "updates": null, 
   "username": "unknownkwita"
  }, 
- "92": {
+ "94": {
   "cap_bar": 42.12106566526532, 
   "capacity": 20.0, 
   "case": "Cooler Master Cosmos II", 
@@ -2256,7 +2305,7 @@
   "updates": null, 
   "username": "falsedell"
  }, 
- "93": {
+ "95": {
   "cap_bar": 41.399863627233174, 
   "capacity": 19.0, 
   "case": "Antec 900", 
@@ -2281,7 +2330,7 @@
   "updates": null, 
   "username": "Tomasu"
  }, 
- "94": {
+ "96": {
   "cap_bar": 41.31971358589247, 
   "capacity": 18.892000000000003, 
   "case": "Dell T410 Tower Server", 
@@ -2308,7 +2357,7 @@
   ], 
   "username": "dalekphalm"
  }, 
- "95": {
+ "97": {
   "cap_bar": 44.684571868308254, 
   "capacity": 24.0, 
   "case": "Fractal Design Define Mini", 
@@ -2330,7 +2379,7 @@
   "updates": null, 
   "username": "Hobobo"
  }, 
- "96": {
+ "98": {
   "cap_bar": 44.684571868308254, 
   "capacity": 24.0, 
   "case": "LIAN LI PC-V700X", 
@@ -2354,7 +2403,7 @@
   ], 
   "username": "stevv"
  }, 
- "97": {
+ "99": {
   "cap_bar": 44.684571868308254, 
   "capacity": 24.0, 
   "case": "Midi Tower", 
@@ -2376,7 +2425,7 @@
   "updates": null, 
   "username": "untamed"
  }, 
- "98": {
+ "100": {
   "cap_bar": 44.684571868308254, 
   "capacity": 24.0, 
   "case": "Silverstone Milo ML04B", 
@@ -2401,7 +2450,7 @@
   ], 
   "username": "weeandykidd"
  }, 
- "99": {
+ "101": {
   "cap_bar": 44.684571868308254, 
   "capacity": 24.0, 
   "case": "Fractal Node 304", 
@@ -2423,7 +2472,7 @@
   "updates": null, 
   "username": "Brandonberg"
  }, 
- "100": {
+ "102": {
   "cap_bar": 44.684571868308254, 
   "capacity": 24.0, 
   "case": "Fractal R5", 
@@ -2445,7 +2494,7 @@
   "updates": null, 
   "username": "Eric The Tech Guru"
  }, 
- "101": {
+ "103": {
   "cap_bar": 44.684571868308254, 
   "capacity": 24.0, 
   "case": "Supermicro SC826TQ-R800LPB", 
@@ -2467,7 +2516,7 @@
   "updates": null, 
   "username": "Ziggidy"
  }, 
- "102": {
+ "104": {
   "cap_bar": 40.979223282534285, 
   "capacity": 18.44, 
   "case": "Silverstone DS380", 
@@ -2494,7 +2543,7 @@
   "updates": null, 
   "username": "bwainer"
  }, 
- "103": {
+ "105": {
   "cap_bar": 42.12106566526532, 
   "capacity": 20.0, 
   "case": "Fractal Arc Midi R2", 
@@ -2520,7 +2569,7 @@
   "updates": null, 
   "username": "bigross123"
  }, 
- "104": {
+ "106": {
   "cap_bar": 42.12106566526532, 
   "capacity": 20.0, 
   "case": "Zalman", 
@@ -2545,7 +2594,7 @@
   ], 
   "username": "Jonny"
  }, 
- "105": {
+ "107": {
   "cap_bar": 40.63965918654664, 
   "capacity": 18.0, 
   "case": "XClio Nighthawk", 
@@ -2572,7 +2621,7 @@
   "updates": null, 
   "username": "cushy91"
  }, 
- "106": {
+ "108": {
   "cap_bar": 40.63965918654664, 
   "capacity": 18.0, 
   "case": "Cooler Master CM 690", 
@@ -2598,7 +2647,7 @@
   "updates": null, 
   "username": "mb2k"
  }, 
- "107": {
+ "109": {
   "cap_bar": 42.807072798460055, 
   "capacity": 21.0, 
   "case": "Bitfenix Shinobi", 
@@ -2621,7 +2670,7 @@
   "updates": null, 
   "username": "bobert"
  }, 
- "108": {
+ "110": {
   "cap_bar": 42.807072798460055, 
   "capacity": 21.0, 
   "case": "Fractal Define R5", 
@@ -2644,7 +2693,7 @@
   "updates": null, 
   "username": "porina"
  }, 
- "109": {
+ "111": {
   "cap_bar": 41.399863627233174, 
   "capacity": 19.0, 
   "case": "Fractal Design ARC Midi", 
@@ -2667,7 +2716,7 @@
   "updates": null, 
   "username": "VictorB"
  }, 
- "110": {
+ "112": {
   "cap_bar": 41.399863627233174, 
   "capacity": 19.0, 
   "case": "Silverstone DS380", 
@@ -2690,7 +2739,7 @@
   "updates": null, 
   "username": "mr_pants66"
  }, 
- "111": {
+ "113": {
   "cap_bar": 37.10608857020769, 
   "capacity": 14.0, 
   "case": "Fractal Define R5", 
@@ -2712,7 +2761,7 @@
   "updates": null, 
   "username": "JK Vengeance"
  }, 
- "112": {
+ "114": {
   "cap_bar": 43.46116083249584, 
   "capacity": 22.0, 
   "case": "Unknown", 
@@ -2735,7 +2784,7 @@
   "updates": null, 
   "username": "mfyll"
  }, 
- "113": {
+ "115": {
   "cap_bar": 40.825891805066675, 
   "capacity": 18.24, 
   "case": "Dell R710", 
@@ -2758,7 +2807,7 @@
   "updates": null, 
   "username": "Psittac"
  }, 
- "114": {
+ "116": {
   "cap_bar": 37.10608857020769, 
   "capacity": 14.0, 
   "case": "MS-Tech CA-0210 Midi Tower", 
@@ -2783,7 +2832,7 @@
   "updates": null, 
   "username": "darkey1991"
  }, 
- "115": {
+ "117": {
   "cap_bar": 38.07615298350371, 
   "capacity": 15.0, 
   "case": "Norco RPC4220", 
@@ -2806,7 +2855,7 @@
   "updates": null, 
   "username": "Appleby"
  }, 
- "116": {
+ "118": {
   "cap_bar": 41.399863627233174, 
   "capacity": 19.0, 
   "case": "Fractal Design Define Mini", 
@@ -2833,7 +2882,7 @@
   ], 
   "username": "tycheleto"
  }, 
- "117": {
+ "119": {
   "cap_bar": 38.98358764005589, 
   "capacity": 16.0, 
   "case": "NZXT Source 210 Elite", 
@@ -2856,7 +2905,7 @@
   "updates": null, 
   "username": "swizzle90"
  }, 
- "118": {
+ "120": {
   "cap_bar": 38.98358764005589, 
   "capacity": 16.0, 
   "case": "unknown", 
@@ -2878,7 +2927,7 @@
   "updates": null, 
   "username": "Chris230291"
  }, 
- "119": {
+ "121": {
   "cap_bar": 38.98358764005589, 
   "capacity": 16.0, 
   "case": "Macase R255-8 2U rack mount", 
@@ -2902,7 +2951,7 @@
   ], 
   "username": "maxtch"
  }, 
- "120": {
+ "122": {
   "cap_bar": 38.98358764005589, 
   "capacity": 16.0, 
   "case": "A Cardboard Box", 
@@ -2925,7 +2974,7 @@
   "updates": null, 
   "username": "TopWargamer"
  }, 
- "121": {
+ "123": {
   "cap_bar": 38.07615298350371, 
   "capacity": 15.0, 
   "case": "NZXT Phantom", 
@@ -2948,7 +2997,7 @@
   "updates": null, 
   "username": "AntarticCrash"
  }, 
- "122": {
+ "124": {
   "cap_bar": 42.12106566526532, 
   "capacity": 20.0, 
   "case": "Lian Li Q25B", 
@@ -2970,7 +3019,7 @@
   "updates": null, 
   "username": "Shaqalac"
  }, 
- "123": {
+ "125": {
   "cap_bar": 40.63965918654664, 
   "capacity": 18.0, 
   "case": "Supermicro CSE-822T-400LPB", 
@@ -2992,7 +3041,7 @@
   "updates": null, 
   "username": "Eric1024"
  }, 
- "124": {
+ "126": {
   "cap_bar": 40.63965918654664, 
   "capacity": 18.0, 
   "case": "Fractal Design R4", 
@@ -3014,7 +3063,7 @@
   "updates": null, 
   "username": "andi1455"
  }, 
- "125": {
+ "127": {
   "cap_bar": 40.63965918654664, 
   "capacity": 18.0, 
   "case": "NZXT Tempest 210", 
@@ -3036,7 +3085,7 @@
   "updates": null, 
   "username": "siaran"
  }, 
- "126": {
+ "128": {
   "cap_bar": 40.63965918654664, 
   "capacity": 18.0, 
   "case": "Norco 2U Case", 
@@ -3058,7 +3107,7 @@
   "updates": null, 
   "username": "Saku"
  }, 
- "127": {
+ "129": {
   "cap_bar": 40.63965918654664, 
   "capacity": 18.0, 
   "case": "Zalman Z1", 
@@ -3082,7 +3131,7 @@
   ], 
   "username": "AidanJMessenger"
  }, 
- "128": {
+ "130": {
   "cap_bar": 40.63965918654664, 
   "capacity": 18.0, 
   "case": "NZXT Source 210", 
@@ -3109,7 +3158,7 @@
   ], 
   "username": "djdwosk97"
  }, 
- "129": {
+ "131": {
   "cap_bar": 40.63965918654664, 
   "capacity": 18.0, 
   "case": "Corsair 760T", 
@@ -3131,7 +3180,7 @@
   "updates": null, 
   "username": "rudel"
  }, 
- "130": {
+ "132": {
   "cap_bar": 35.68036674700936, 
   "capacity": 12.65, 
   "case": "Fractal Define R5", 
@@ -3156,7 +3205,7 @@
   "updates": null, 
   "username": "nik96"
  }, 
- "131": {
+ "133": {
   "cap_bar": 34.93867495829428, 
   "capacity": 12.0, 
   "case": "Dell R510", 
@@ -3172,13 +3221,13 @@
   "ranking_points": 29.918465431232345, 
   "rp_bar": 47.78378436533521, 
   "storage_sys": {
-   "unknown": 1
+   "ZFS": 1
   }, 
   "timestamp": 1535889600, 
   "updates": null, 
   "username": "Psittac"
  }, 
- "132": {
+ "134": {
   "cap_bar": 39.83599147433862, 
   "capacity": 17.0, 
   "case": "Unknown", 
@@ -3203,7 +3252,7 @@
   "updates": null, 
   "username": "snortingfrogs"
  }, 
- "133": {
+ "135": {
   "cap_bar": 37.10608857020769, 
   "capacity": 14.0, 
   "case": "Lian Li PC-Q25B", 
@@ -3226,7 +3275,7 @@
   "updates": null, 
   "username": "Tomasu"
  }, 
- "134": {
+ "136": {
   "cap_bar": 38.07615298350371, 
   "capacity": 15.0, 
   "case": "Coolermaster HAF-X", 
@@ -3249,7 +3298,7 @@
   "updates": null, 
   "username": "Hellboy"
  }, 
- "135": {
+ "137": {
   "cap_bar": 38.07615298350371, 
   "capacity": 15.0, 
   "case": "Silverstone Precision PS08", 
@@ -3271,7 +3320,7 @@
   "updates": null, 
   "username": "algoat"
  }, 
- "136": {
+ "138": {
   "cap_bar": 38.07615298350371, 
   "capacity": 15.0, 
   "case": "Bitfenix Prodigy", 
@@ -3293,7 +3342,7 @@
   "updates": null, 
   "username": "Jimstah87"
  }, 
- "137": {
+ "139": {
   "cap_bar": 38.07615298350371, 
   "capacity": 15.0, 
   "case": "Synology DS1513+", 
@@ -3315,7 +3364,7 @@
   "updates": null, 
   "username": "X1XNobleX1X"
  }, 
- "138": {
+ "140": {
   "cap_bar": 38.07615298350371, 
   "capacity": 15.0, 
   "case": "Corsair 400R", 
@@ -3342,7 +3391,7 @@
   ], 
   "username": "Night_Rider0"
  }, 
- "139": {
+ "141": {
   "cap_bar": 38.07615298350371, 
   "capacity": 15.0, 
   "case": "Micron Cube Server", 
@@ -3367,7 +3416,7 @@
   "updates": null, 
   "username": "Jeepman"
  }, 
- "140": {
+ "142": {
   "cap_bar": 38.07615298350371, 
   "capacity": 15.0, 
   "case": "SGI Rackable Omnistore 3016", 
@@ -3392,7 +3441,7 @@
   "updates": null, 
   "username": "Pancake"
  }, 
- "141": {
+ "143": {
   "cap_bar": 35.217106970410505, 
   "capacity": 12.24, 
   "case": "Supermicro 813MTQ-350CB", 
@@ -3416,7 +3465,7 @@
   "updates": null, 
   "username": "bwainer"
  }, 
- "142": {
+ "144": {
   "cap_bar": 34.93867495829428, 
   "capacity": 12.0, 
   "case": "Fractal Design Mini", 
@@ -3438,7 +3487,7 @@
   "updates": null, 
   "username": "draxer03"
  }, 
- "143": {
+ "145": {
   "cap_bar": 34.93867495829428, 
   "capacity": 12.0, 
   "case": "unknown", 
@@ -3462,7 +3511,7 @@
   ], 
   "username": "maxtch"
  }, 
- "144": {
+ "146": {
   "cap_bar": 36.06410401472424, 
   "capacity": 13.0, 
   "case": "Corsair C70", 
@@ -3487,7 +3536,7 @@
   ], 
   "username": "Blade of Grass"
  }, 
- "145": {
+ "147": {
   "cap_bar": 32.37516875525135, 
   "capacity": 10.0, 
   "case": "Fractal Design R4", 
@@ -3510,7 +3559,7 @@
   "updates": null, 
   "username": "Whiskers"
  }, 
- "146": {
+ "148": {
   "cap_bar": 33.71526392248187, 
   "capacity": 11.0, 
   "case": "an old case I own", 
@@ -3535,7 +3584,7 @@
   "updates": null, 
   "username": "grimreeper132"
  }, 
- "147": {
+ "149": {
   "cap_bar": 34.93867495829428, 
   "capacity": 12.0, 
   "case": "unknown", 
@@ -3558,7 +3607,7 @@
   "updates": null, 
   "username": "Hellboy"
  }, 
- "148": {
+ "150": {
   "cap_bar": 34.93867495829428, 
   "capacity": 12.0, 
   "case": "Raidmax Seiran", 
@@ -3586,7 +3635,7 @@
   ], 
   "username": "Patrick3D"
  }, 
- "149": {
+ "151": {
   "cap_bar": 32.37516875525135, 
   "capacity": 10.0, 
   "case": "Coolmaster H500 ", 
@@ -3612,7 +3661,7 @@
   "updates": null, 
   "username": "dogwitch"
  }, 
- "150": {
+ "152": {
   "cap_bar": 33.71526392248187, 
   "capacity": 11.0, 
   "case": "Antec 300", 
@@ -3635,7 +3684,7 @@
   "updates": null, 
   "username": "Doowstados"
  }, 
- "151": {
+ "153": {
   "cap_bar": 32.37516875525135, 
   "capacity": 10.0, 
   "case": "Midi Tower", 
@@ -3660,7 +3709,7 @@
   "updates": null, 
   "username": "5lay3r"
  }, 
- "152": {
+ "154": {
   "cap_bar": 32.37516875525135, 
   "capacity": 10.0, 
   "case": "Drobo", 
@@ -3682,7 +3731,7 @@
   "updates": null, 
   "username": "MoonSpot"
  }, 
- "153": {
+ "155": {
   "cap_bar": 32.37516875525135, 
   "capacity": 10.0, 
   "case": "Antec One Hundred", 
@@ -3707,7 +3756,7 @@
   "updates": null, 
   "username": "Woodypc"
  }, 
- "154": {
+ "156": {
   "cap_bar": 32.37516875525135, 
   "capacity": 10.0, 
   "case": "Bitfenix Prodigy", 
@@ -3729,7 +3778,7 @@
   "updates": null, 
   "username": "Pidagad"
  }, 
- "155": {
+ "157": {
   "cap_bar": 32.37516875525135, 
   "capacity": 10.0, 
   "case": "Silverstone DS380", 

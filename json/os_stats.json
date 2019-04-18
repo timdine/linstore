@@ -7,18 +7,18 @@
   "drive_count": 10
  }, 
  "ESXi": {
-  "count": 5, 
-  "capacity": 106.892, 
+  "count": 6, 
+  "capacity": 148.092, 
   "os": "ESXi", 
   "family": "ESXi", 
-  "drive_count": 54
+  "drive_count": 68
  }, 
  "Synology": {
   "count": 9, 
-  "capacity": 353.75, 
+  "capacity": 369.75, 
   "os": "Synology OS", 
   "family": "GNU/Linux", 
-  "drive_count": 76
+  "drive_count": 81
  }, 
  "WS 2008R2": {
   "count": 4, 
@@ -28,11 +28,11 @@
   "drive_count": 36
  }, 
  "WS 2012R2": {
-  "count": 14, 
-  "capacity": 784.92, 
+  "count": 15, 
+  "capacity": 808.92, 
   "os": "Windows Server 2012 R2", 
   "family": "Windows", 
-  "drive_count": 205
+  "drive_count": 213
  }, 
  "Gentoo": {
   "count": 2, 

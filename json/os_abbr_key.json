@@ -1,11 +1,47 @@
 {
+        "Win" : {
+                "os" : "Windows (unspecified)",
+                "family" : "Windows"
+        },
         "Win 7" : { 
                 "os" : "Windows 7",
                 "family" : "Windows" 
         },
+        "Win 8" : {
+                "os" : "Windows 8",
+                "family" : "Windows"
+        },
+        "Win 8.1" : {
+                "os" : "Windows 8.1",
+                "family" : "Windows"
+        },
         "Win 10" : { 
                 "os" : "Windows 10",
                 "family" : "Windows" 
+        },
+        "WS 2008R2" : {
+                "os" : "Windows Server 2008 R2",
+                "family" : "Windows"
+        },
+        "WHS 2011" : {
+                "os" : "Windows Home Server 2011",
+                "family" : "Windows"
+        },
+        "WS 2012" : {
+                "os" : "Windows Server 2012",
+                "family" : "Windows"
+        },
+        "WS 2012R2" : {
+                "os" : "Windows Server 2012 R2",
+                "family" : "Windows"
+        },
+        "WS 2016" : {
+                "os" : "Windows Server 2016",
+                "family" : "Windows"
+        },
+        "HyperV2016" : {
+                "os" : "Microsoft HyperV 2016",
+                "family" : "Windows"
         },
         "FreeNAS" : {
                 "os" : "FreeNAS",
@@ -15,9 +51,13 @@
                 "os" : "FreeBSD",
                 "family" : "*BSD"
         },
-        "WS 2012" : {
-                "os" : "Windows Server 2012",
-                "family" : "Windows"
+        "NAS4Free" : {
+                "os" : "NAS4Free",
+                "family" : "*BSD"
+        },
+        "ZFSGuru" : {
+                "os" : "ZFSGuru",
+                "family" : "*BSD"
         },
         "Linux" : {
                 "os" : "Linux (other)",
@@ -27,49 +67,29 @@
                 "os" : "Ubuntu Linux",
                 "family" : "GNU/Linux"
         },
-        "Xubuntu" : {
-                "os" : "Xubuntu Linux",
-                "family" : "GNU/Linux"
-        },
         "Lubuntu" : {
                 "os" : "Lubuntu Linux",
                 "family" : "GNU/Linux"
         },
-		"Fedora" : {
-				"os" : "Fedora Linux",
-				"family" : "GNU/Linux"
+        "Xubuntu" : {
+                "os" : "Xubuntu Linux",
+                "family" : "GNU/Linux"
+        },
+        "Fedora" : {
+                "os" : "Fedora Linux",
+                "family" : "GNU/Linux"
 		},
         "unRAID" : {
                 "os" : "unRAID",
                 "family" : "GNU/Linux"
         },
-        "Win 8.1" : {
-                "os" : "Windows 8.1",
-                "family" : "Windows"
-        },
         "Synology" : {
                 "os" : "Synology OS",
                 "family" : "GNU/Linux"
         },
-        "Win 8" : {
-                "os" : "Windows 8",
-                "family" : "Windows"
-        },
         "Linux Mint" : {
                 "os" : "Linux Mint",
                 "family" : "GNU/Linux"
-        },
-        "WHS 2011" : {
-                "os" : "Windows Home Server 2011",
-                "family" : "Windows"
-        },
-        "WS 2008R2" : {
-                "os" : "Windows Server 2008 R2",
-                "family" : "Windows"
-        },
-        "NAS4Free" : {
-                "os" : "NAS4Free",
-                "family" : "*BSD"
         },
         "Drobo" : {
                 "os" : "Drobo OS",
@@ -79,25 +99,13 @@
                 "os" : "Netgear ReadyNAS",
                 "family" : "GNU/Linux"
         },
-        "WS 2012R2" : {
-                "os" : "Windows Server 2012 R2",
-                "family" : "Windows"
-        },
         "Arch Linux" : {
                 "os" : "Arch Linux",
                 "family" : "GNU/Linux"
         },
-        "ZFSGuru" : {
-                "os" : "ZFSGuru",
-                "family" : "*BSD"
-        },
         "Gentoo" : {
                 "os" : "Gentoo Linux",
                 "family" : "GNU/Linux"
-        },
-        "Win" : {
-                "os" : "Windows (unspecified)",
-                "family" : "Windows"
         },
         "OpenMediaVault" : {
                 "os" : "OpenMediaVault",
@@ -119,21 +127,13 @@
                 "os" : "ESXi",
                 "family" : "ESXi"
         },
-		"Proxmox" : {
-				"os" : "Proxmox",
-				"family" : "Proxmox"
-		},
-		"XPEnology" : {
-				"os" : "XPEnology",
-				"family" : "XPEnology"
-		},
-		"HyperV2016" : {
-				"os" : "Microsoft HyperV 2016",
-				"family" : "Windows"
-		},
-        "WS 2016" : {
-                "os" : "Windows Server 2016",
-                "family" : "Windows"
+        "Proxmox" : {
+                "os" : "Proxmox",
+                "family" : "Proxmox"
+        },
+        "XPEnology" : {
+                "os" : "XPEnology",
+                "family" : "XPEnology"
         },
         "UNKNOWN" : {
                 "os" : "Unknown",

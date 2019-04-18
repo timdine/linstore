@@ -1,13 +1,13 @@
 {
  "Synology Hybrid RAID": 9, 
  "Drobo BeyondRAID": 2, 
- "ZFS": 58, 
- "unknown": 8, 
+ "ZFS": 60, 
+ "unknown": 7, 
  "FlexRAID": 8, 
  "unRAID": 7, 
  "JBOD": 16, 
  "StableBit": 2, 
- "Hardware RAID": 30, 
+ "Hardware RAID": 31, 
  "Windows Storage Spaces": 9, 
  "mdadm": 9, 
  "Software RAID (generic)": 12

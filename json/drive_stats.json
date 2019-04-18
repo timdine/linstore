@@ -13,12 +13,12 @@
    "system_usage": 39
   }, 
   "3.0": {
-   "count": 202, 
-   "system_usage": 46
+   "count": 212, 
+   "system_usage": 48
   }, 
   "4.0": {
-   "count": 181, 
-   "system_usage": 30
+   "count": 191, 
+   "system_usage": 31
   }, 
   "5.0": {
    "count": 32, 
@@ -104,6 +104,10 @@
   }
  }, 
  "Kingston": {
+  "0.48": {
+   "count": 2, 
+   "system_usage": 1
+  }, 
   "0.24": {
    "count": 2, 
    "system_usage": 1
@@ -149,8 +153,8 @@
    "system_usage": 6
   }, 
   "4": {
-   "count": 33, 
-   "system_usage": 5
+   "count": 57, 
+   "system_usage": 6
   }, 
   "6": {
    "count": 1, 
@@ -191,15 +195,15 @@
    "system_usage": 8
   }, 
   "2.0": {
-   "count": 115, 
-   "system_usage": 30
+   "count": 116, 
+   "system_usage": 31
   }, 
   "3.0": {
    "count": 88, 
    "system_usage": 25
   }, 
   "4.0": {
-   "count": 164, 
+   "count": 166, 
    "system_usage": 25
   }, 
   "5.0": {
@@ -321,11 +325,9 @@
   "0.25": {
    "count": 4, 
    "system_usage": 1
-  }
- }, 
- "White Label": {
-  "4.0": {
-   "count": 24, 
+  }, 
+  "0.12": {
+   "count": 2, 
    "system_usage": 1
   }
  }
