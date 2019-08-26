@@ -2259,18 +2259,17 @@
   "username": "raid0yolo"
  },
  "system_139": {
-  "capacity": 38.0,
-  "case": "Dell R510",
+  "capacity": 88.0,
+  "case": "Supermicro Rack",
   "ditch": 0,
   "drives": {
-   "HT0400": 4,
-   "WD0400": 2,
-   "WD0300": 3,
-   "SG0800": 1
+   "HT0400": 6,
+   "SG0600": 4,
+   "SG0800": 6
   },
-  "updates": null,
+  "updates": [12559331],
   "notes": null,
-  "os": "WS 2012R2",
+  "os": "Ubuntu",
   "post": 7740105,
   "storage_sys": {"HwRD": 1},
   "timestamp": 1463168625,
@@ -2454,13 +2453,13 @@
   "username": "Thorn57"
  },
 "system_152": {
-  "capacity": 96.0,
-  "case": "4U 24 bay AIC",
+  "capacity": 161,
+  "case": "4U 24 bay AIC x2",
   "ditch": 0,
   "drives": {
-	  "WL0400": 24
+	  "WL0400": 48
   },
-  "updates": null,
+  "updates": [12547276],
   "notes": null,
   "os": "Linux",
   "post": 11398381,
@@ -3032,5 +3031,54 @@
   "storage_sys": {"unRAID": 1},
   "timestamp": 1555502400,
   "username": "jonesbooned"
+ },
+ "system_187": {
+  "capacity": 16,
+  "case": "Fractal Design Node 804",
+  "ditch": 0,
+  "drives": {
+    "SG0200" : 7,
+    "WD0200" : 1
+  },
+  "updates": null,
+  "notes": null,
+  "os": "FreeNAS",
+  "post": 12580073,
+  "storage_sys": {"ZFS": 1},
+  "timestamp": 1558267200,
+  "username": "JohnnyGrey"
+ },
+ "system_188": {
+  "capacity": 24,
+  "case": "Fractal Design R6 black",
+  "ditch": 0,
+  "drives": {
+    "CR0050" : 1,
+    "WD0600" : 4
+  },
+  "updates": null,
+  "notes": null,
+  "os": "FreeNAS",
+  "post": 12659678,
+  "storage_sys": {"ZFS": 1},
+  "timestamp": 1561032000,
+  "username": "Velcade"
+ },
+ "system_189": {
+  "capacity": 482,
+  "case": "IBM System x3650 M4 v2",
+  "ditch": 0,
+  "drives": {
+    "SG0100" : 6,
+    "TS0500" : 66,
+    "WD0800" : 18
+  },
+  "updates": null,
+  "notes": "3 x 36 Bay SuperMicro CSE-847E26-R1400LPB",
+  "os": "FreeNAS",
+  "post": 12740049,
+  "storage_sys": {"ZFS": 1},
+  "timestamp": 1563796800,
+  "username": "NoxOps"
  }
 }
